@@ -1,0 +1,9 @@
+ray
+h5py
+allennlp==2.8.0
+filelock==3.4.0
+networkx
+torch
+nltk
+tqdm
+joblib
