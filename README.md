@@ -17,7 +17,13 @@ Nevertheless, we hope that this repository is still useful.
 If you use any methods presented in the paper, please cite the following:
 
 ```
-TBA
+@inproceedings{zhang2022skill,
+  title={Skill Extraction from Job Postings using Weak Supervision},
+  author={Zhang, Mike and Jensen, Kristian N{\o}rgaard and van der Goot, Rob and Plank, Barbara},
+  booktitle={RecSys in HR'22: The 2nd Workshop on Recommender Systems for Human Resources, in conjunction with the 16th ACM Conference on Recommender Systems, September 18--23, 2022, Seattle, USA.},
+  year={2022},
+  organization={CEUR Workshop Proceedings}
+}
 ```
 
 ## License
